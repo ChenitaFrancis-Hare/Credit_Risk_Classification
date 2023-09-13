@@ -62,3 +62,4 @@ Machine Learning Model 2 uses the RandomOverSampler module to resample the orgin
 
 ## Recommendations:
 Based on the results, Machine Learning Model returned the most accurate predictions and would therefore be the  Machine Learning Model of choice. 
+
